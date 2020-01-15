@@ -26,7 +26,7 @@ public class Main {
         System.out.println(new Customer());
         System.out.println(new Customer());
         System.out.println(new Customer());
-        System.out.println(new Customer());
+        System.out.println();
         System.out.println(new Customer());
         System.out.println(new Customer());
         System.out.println(new Customer());
